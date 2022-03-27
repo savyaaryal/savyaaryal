@@ -1,4 +1,4 @@
-### Welcome in my profile
+* Welcome to my profile
 # Hello Pretty Strangers
 # from Savya Aryal
 
