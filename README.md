@@ -1,10 +1,11 @@
+### Welcome in my profile
 # Hello Pretty Strangers
 # from Savya Aryal
 
 - 👋 Hi, I’m savya aryal
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning bacholar fouth sem
-- 💞️ I’m looking to collaborate on 
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on Web Development Projects.
 - 📫 How to reach me ...
 
 <!---
